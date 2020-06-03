@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: httpclientutil
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.jourwon.httpclient
+Build-Jdk: 1.8.0_251
+Implementation-URL: http://projects.spring.io/spring-boot/httpclientut
+ il/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
